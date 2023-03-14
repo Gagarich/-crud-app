@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Don",
+      "lastName": "Digidon",
+      "email": "don@ukr.net",
+      "birthDate": "2016-03-07T22:00:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "USarmy",
+      "experience": 5,
+      "package": 12,
+      "id": 1
+    },
+    {
+      "firstName": "Carabon",
+      "lastName": "Crisonet",
+      "email": "cofo@i.ua",
+      "birthDate": "1992-06-13T21:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Pax",
+      "experience": 6,
+      "package": 300,
+      "id": 3
+    },
+    {
+      "firstName": "Anton",
+      "lastName": "Lobov",
+      "email": "entpont@gmaol.com",
+      "birthDate": "2004-10-12T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Tampob",
+      "experience": 1,
+      "package": 2000,
+      "id": 4
+    },
+    {
+      "firstName": "Carabon",
+      "lastName": "Diviniate",
+      "email": "talofa@i.ua",
+      "birthDate": "1992-06-15T21:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Pax",
+      "experience": 5,
+      "package": 5,
+      "id": 5
+    },
+    {
+      "firstName": "CarabonID",
+      "lastName": "Diviniate",
+      "email": "coco@i.ua",
+      "birthDate": "1992-06-15T21:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Pax",
+      "experience": 5,
+      "package": 5,
+      "id": 6
+    }
+  ]
+}
